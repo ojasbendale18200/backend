@@ -1,0 +1,26 @@
+{"cats": [
+    {
+      "id": 1,
+      "name": "Kristoffer",
+      "cost": 47.82,
+      "likes": 633,
+      "image": "/images/cat/cat-unsplash-1.jpg",
+      "thumb": "/images/cat/cat-unsplash-1-thumb.jpg",
+      "description": "Eveniet sed accusantium doloribus atque. Perferendis accusamus nemo accusamus debitis deserunt. Consequuntur animi nobis veniam. Nemo enim ratione odio soluta tempora placeat veritatis.",
+      "breed": "Peterbald",
+      "createdAt": 1670165980567
+    },
+    {
+      "id": 2,
+      "name": "Destiny",
+      "cost": 86.57,
+      "likes": 368,
+      "image": "/images/cat/cat-unsplash-2.jpg",
+      "thumb": "/images/cat/cat-unsplash-2-thumb.jpg",
+      "description": "Earum natus saepe. Deserunt dolorem totam voluptates enim dolorum hic. Sequi atque illo quae distinctio. Repellat et nam sapiente facilis.",
+      "breed": "Nebelung",
+      "createdAt": 1670165980567
+    }
+    ]
+}
+    
